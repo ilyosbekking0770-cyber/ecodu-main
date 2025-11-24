@@ -1,0 +1,7 @@
+No external hidden files: everything must stay in the repo.
+
+Auth, profile, comments, UI, components, and API logic must all run directly from the repo.
+
+Use environment variables only for Supabase keys.
+
+Final code must work without Bolt once pushed
