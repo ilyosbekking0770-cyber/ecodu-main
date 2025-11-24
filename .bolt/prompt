@@ -5,3 +5,9 @@ Auth, profile, comments, UI, components, and API logic must all run directly fro
 Use environment variables only for Supabase keys.
 
 Final code must work without Bolt once pushed
+
+Keep existing slideshow/last slide exactly as in repo.
+
+Add smooth minimal animations across pages.
+
+Make full site responsive and user-friendly.
